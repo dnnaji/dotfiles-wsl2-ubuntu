@@ -117,9 +117,9 @@ Setup Git
 #!/bin/bash
 
 # Set username and email for next commands
-email="contact@alex-d.fr"
-username="Alex-D"
-gpgkeyid="8FA78E6580B1222A"
+email="<email>"
+username="<name>"
+gpgkeyid="<gpgkey>"
 
 # Configure Git
 git config --global user.email "${email}"
