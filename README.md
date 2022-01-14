@@ -1,20 +1,20 @@
-My Windows 10 Setup & Dotfiles
+My Windows 11 Setup & Dotfiles
 ==============================
 
 Goals of this setup
 -------------------
 
-- Working on Windows 10, on WSL 2 filesystem
+- Working on Windows 11, on WSL 2 filesystem
 - Having a visually nice terminal (Windows Terminal)
 - zsh as my main shell
 - Using Docker and Docker Compose directly from zsh
-- Using IntelliJ IDEA directly from WSL 2
+- Using VSCode integrated with WSL2
 
 
 What's in this setup?
 ---------------------
 
-- Host: Windows 10 2004+
+- Host: Windows 11 Pro
   - Ubuntu via WSL 2 (Windows Subsystem for Linux)
 - Terminal: Windows Terminal
 - Systemd
@@ -22,12 +22,12 @@ What's in this setup?
 - git
 - Docker
 - Docker Compose
-- Node.js (using [Volta](https://volta.sh))
+- Node.js (using [fnm](fnm.vercel.app))
   - node
   - npm
   - yarn
 - Go
-- IDE: IntelliJ IDEA, under WSL 2, used on Windows via VcXsrv
+- IDE: VSCode
 - WSL Bridge: allow exposing WSL 2 ports on the network
 
 
