@@ -1,5 +1,5 @@
 # Prompt
-romkatv/powerlevel10k
+# romkatv/powerlevel10k
 
 # Plugins
 rupa/z
@@ -10,4 +10,11 @@ robbyrussell/oh-my-zsh path:plugins/ssh-agent
 robbyrussell/oh-my-zsh path:plugins/gpg-agent
 robbyrussell/oh-my-zsh path:plugins/colored-man-pages
 zdharma-continuum/fast-syntax-highlighting
+
 zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
+robbyrussell/oh-my-zsh path:oh-my-zsh.sh
+
+mafredri/zsh-async
+
+sindresorhus/pure
